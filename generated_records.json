@@ -1,0 +1,702 @@
+[
+    {
+        "name": "BMA",
+        "buy": 103.36,
+        "sell": 156.54,
+        "timestamp": 1733723958363,
+        "source": "A"
+    },
+    {
+        "name": "TS",
+        "buy": 116.18,
+        "sell": 128.78,
+        "timestamp": 1733224983363,
+        "source": "B"
+    },
+    {
+        "name": "BMA",
+        "buy": 208.4,
+        "sell": 213.23,
+        "timestamp": 1734070388363,
+        "source": "A"
+    },
+    {
+        "name": "TS",
+        "buy": 192.92,
+        "sell": 219.25,
+        "timestamp": 1734197471363,
+        "source": "B"
+    },
+    {
+        "name": "YPF",
+        "buy": 171.27,
+        "sell": 212.63,
+        "timestamp": 1733739913363,
+        "source": "B"
+    },
+    {
+        "name": "GGAL",
+        "buy": 118.16,
+        "sell": 141.32,
+        "timestamp": 1732915196363,
+        "source": "A"
+    },
+    {
+        "name": "TS",
+        "buy": 87.6,
+        "sell": 219.64,
+        "timestamp": 1734144444363,
+        "source": "B"
+    },
+    {
+        "name": "GGAL",
+        "buy": 93.27,
+        "sell": 196.57,
+        "timestamp": 1734496871363,
+        "source": "B"
+    },
+    {
+        "name": "PAMP",
+        "buy": 128.56,
+        "sell": 149.98,
+        "timestamp": 1733425703363,
+        "source": "B"
+    },
+    {
+        "name": "PAMP",
+        "buy": 109.74,
+        "sell": 233.33,
+        "timestamp": 1733741013363,
+        "source": "B"
+    },
+    {
+        "name": "PAMP",
+        "buy": 107.38,
+        "sell": 159.33,
+        "timestamp": 1733981823363,
+        "source": "B"
+    },
+    {
+        "name": "TS",
+        "buy": 81.16,
+        "sell": 176.04,
+        "timestamp": 1733487709363,
+        "source": "B"
+    },
+    {
+        "name": "PAMP",
+        "buy": 146.24,
+        "sell": 166.23,
+        "timestamp": 1732533252363,
+        "source": "A"
+    },
+    {
+        "name": "YPF",
+        "buy": 105.81,
+        "sell": 180.8,
+        "timestamp": 1733261340363,
+        "source": "A"
+    },
+    {
+        "name": "PAMP",
+        "buy": 104.41,
+        "sell": 159.5,
+        "timestamp": 1733800033363,
+        "source": "B"
+    },
+    {
+        "name": "YPF",
+        "buy": 213.74,
+        "sell": 214.38,
+        "timestamp": 1732550488363,
+        "source": "A"
+    },
+    {
+        "name": "YPF",
+        "buy": 73.12,
+        "sell": 134.04,
+        "timestamp": 1733764177363,
+        "source": "A"
+    },
+    {
+        "name": "TS",
+        "buy": 193.25,
+        "sell": 204.59,
+        "timestamp": 1732694296362,
+        "source": "B"
+    },
+    {
+        "name": "TS",
+        "buy": 181.72,
+        "sell": 208.02,
+        "timestamp": 1733527041363,
+        "source": "B"
+    },
+    {
+        "name": "PAMP",
+        "buy": 127.13,
+        "sell": 177.6,
+        "timestamp": 1732522442363,
+        "source": "A"
+    },
+    {
+        "name": "PAMP",
+        "buy": 76.46,
+        "sell": 151.22,
+        "timestamp": 1733042881363,
+        "source": "A"
+    },
+    {
+        "name": "TS",
+        "buy": 118.36,
+        "sell": 176.8,
+        "timestamp": 1734854945363,
+        "source": "A"
+    },
+    {
+        "name": "YPF",
+        "buy": 77.03,
+        "sell": 198.89,
+        "timestamp": 1732629305363,
+        "source": "B"
+    },
+    {
+        "name": "TS",
+        "buy": 170.82,
+        "sell": 215.11,
+        "timestamp": 1734544922363,
+        "source": "A"
+    },
+    {
+        "name": "GGAL",
+        "buy": 105.24,
+        "sell": 147.63,
+        "timestamp": 1734274159363,
+        "source": "A"
+    },
+    {
+        "name": "PAMP",
+        "buy": 226.31,
+        "sell": 239.73,
+        "timestamp": 1734321875363,
+        "source": "B"
+    },
+    {
+        "name": "BMA",
+        "buy": 163.73,
+        "sell": 211.32,
+        "timestamp": 1734298365363,
+        "source": "B"
+    },
+    {
+        "name": "PAMP",
+        "buy": 199.56,
+        "sell": 208.55,
+        "timestamp": 1734480068363,
+        "source": "A"
+    },
+    {
+        "name": "YPF",
+        "buy": 184.37,
+        "sell": 210.61,
+        "timestamp": 1734728363363,
+        "source": "B"
+    },
+    {
+        "name": "BMA",
+        "buy": 125.89,
+        "sell": 241.97,
+        "timestamp": 1734684094363,
+        "source": "B"
+    },
+    {
+        "name": "GGAL",
+        "buy": 104.1,
+        "sell": 112.81,
+        "timestamp": 1733878999363,
+        "source": "B"
+    },
+    {
+        "name": "BMA",
+        "buy": 166.9,
+        "sell": 202.81,
+        "timestamp": 1732769547363,
+        "source": "B"
+    },
+    {
+        "name": "TS",
+        "buy": 173.52,
+        "sell": 235.92,
+        "timestamp": 1732960198363,
+        "source": "A"
+    },
+    {
+        "name": "GGAL",
+        "buy": 70.56,
+        "sell": 77.8,
+        "timestamp": 1734246735363,
+        "source": "A"
+    },
+    {
+        "name": "GGAL",
+        "buy": 112.41,
+        "sell": 182.35,
+        "timestamp": 1733474290363,
+        "source": "A"
+    },
+    {
+        "name": "GGAL",
+        "buy": 104.85,
+        "sell": 203.59,
+        "timestamp": 1734106973363,
+        "source": "B"
+    },
+    {
+        "name": "GGAL",
+        "buy": 95.83,
+        "sell": 96.69,
+        "timestamp": 1734860083363,
+        "source": "B"
+    },
+    {
+        "name": "YPF",
+        "buy": 229.38,
+        "sell": 246.44,
+        "timestamp": 1733888101363,
+        "source": "B"
+    },
+    {
+        "name": "GGAL",
+        "buy": 195.31,
+        "sell": 238.02,
+        "timestamp": 1732417872362,
+        "source": "B"
+    },
+    {
+        "name": "GGAL",
+        "buy": 167.07,
+        "sell": 232.08,
+        "timestamp": 1733791192362,
+        "source": "B"
+    },
+    {
+        "name": "YPF",
+        "buy": 81.19,
+        "sell": 165.6,
+        "timestamp": 1733413673363,
+        "source": "B"
+    },
+    {
+        "name": "PAMP",
+        "buy": 108.73,
+        "sell": 142.61,
+        "timestamp": 1733784203363,
+        "source": "B"
+    },
+    {
+        "name": "TS",
+        "buy": 132.95,
+        "sell": 201.93,
+        "timestamp": 1734816037363,
+        "source": "A"
+    },
+    {
+        "name": "BMA",
+        "buy": 93.94,
+        "sell": 230.81,
+        "timestamp": 1734842947363,
+        "source": "B"
+    },
+    {
+        "name": "TS",
+        "buy": 94.17,
+        "sell": 200.83,
+        "timestamp": 1733023778363,
+        "source": "B"
+    },
+    {
+        "name": "YPF",
+        "buy": 215.52,
+        "sell": 237.81,
+        "timestamp": 1734238704363,
+        "source": "A"
+    },
+    {
+        "name": "GGAL",
+        "buy": 89.63,
+        "sell": 92.72,
+        "timestamp": 1733708402362,
+        "source": "B"
+    },
+    {
+        "name": "BMA",
+        "buy": 87.82,
+        "sell": 166.41,
+        "timestamp": 1734570090362,
+        "source": "B"
+    },
+    {
+        "name": "BMA",
+        "buy": 72.24,
+        "sell": 104.78,
+        "timestamp": 1733227856363,
+        "source": "A"
+    },
+    {
+        "name": "BMA",
+        "buy": 80.94,
+        "sell": 202.56,
+        "timestamp": 1733248256363,
+        "source": "A"
+    },
+    {
+        "name": "PAMP",
+        "buy": 114.18,
+        "sell": 229.6,
+        "timestamp": 1734779491363,
+        "source": "A"
+    },
+    {
+        "name": "BMA",
+        "buy": 157.99,
+        "sell": 249.99,
+        "timestamp": 1732862891363,
+        "source": "B"
+    },
+    {
+        "name": "YPF",
+        "buy": 133.45,
+        "sell": 233.39,
+        "timestamp": 1733593882362,
+        "source": "B"
+    },
+    {
+        "name": "BMA",
+        "buy": 150.64,
+        "sell": 244.26,
+        "timestamp": 1734092746362,
+        "source": "B"
+    },
+    {
+        "name": "TS",
+        "buy": 101.27,
+        "sell": 223.99,
+        "timestamp": 1733771877362,
+        "source": "A"
+    },
+    {
+        "name": "TS",
+        "buy": 86.76,
+        "sell": 108.54,
+        "timestamp": 1734114531363,
+        "source": "A"
+    },
+    {
+        "name": "PAMP",
+        "buy": 110.6,
+        "sell": 160.63,
+        "timestamp": 1733982798362,
+        "source": "B"
+    },
+    {
+        "name": "GGAL",
+        "buy": 76.26,
+        "sell": 241.12,
+        "timestamp": 1733721412363,
+        "source": "A"
+    },
+    {
+        "name": "PAMP",
+        "buy": 119.5,
+        "sell": 187.82,
+        "timestamp": 1733413019363,
+        "source": "A"
+    },
+    {
+        "name": "YPF",
+        "buy": 90.8,
+        "sell": 104.73,
+        "timestamp": 1732985891363,
+        "source": "A"
+    },
+    {
+        "name": "TS",
+        "buy": 127.26,
+        "sell": 130.09,
+        "timestamp": 1734293171363,
+        "source": "A"
+    },
+    {
+        "name": "GGAL",
+        "buy": 129.61,
+        "sell": 148.72,
+        "timestamp": 1732504703363,
+        "source": "B"
+    },
+    {
+        "name": "TS",
+        "buy": 181.22,
+        "sell": 190.43,
+        "timestamp": 1734412178363,
+        "source": "A"
+    },
+    {
+        "name": "YPF",
+        "buy": 102.24,
+        "sell": 165.02,
+        "timestamp": 1733139624363,
+        "source": "A"
+    },
+    {
+        "name": "YPF",
+        "buy": 82.28,
+        "sell": 218.39,
+        "timestamp": 1733543598363,
+        "source": "B"
+    },
+    {
+        "name": "BMA",
+        "buy": 95.23,
+        "sell": 217.0,
+        "timestamp": 1733669227363,
+        "source": "B"
+    },
+    {
+        "name": "YPF",
+        "buy": 103.84,
+        "sell": 239.27,
+        "timestamp": 1732417665363,
+        "source": "A"
+    },
+    {
+        "name": "GGAL",
+        "buy": 89.47,
+        "sell": 146.04,
+        "timestamp": 1734164712363,
+        "source": "B"
+    },
+    {
+        "name": "BMA",
+        "buy": 123.54,
+        "sell": 154.65,
+        "timestamp": 1733431291363,
+        "source": "B"
+    },
+    {
+        "name": "YPF",
+        "buy": 149.81,
+        "sell": 169.5,
+        "timestamp": 1733624445363,
+        "source": "B"
+    },
+    {
+        "name": "PAMP",
+        "buy": 178.08,
+        "sell": 214.01,
+        "timestamp": 1734853455363,
+        "source": "B"
+    },
+    {
+        "name": "YPF",
+        "buy": 200.44,
+        "sell": 249.6,
+        "timestamp": 1732753120363,
+        "source": "B"
+    },
+    {
+        "name": "TS",
+        "buy": 94.6,
+        "sell": 143.3,
+        "timestamp": 1732809895362,
+        "source": "B"
+    },
+    {
+        "name": "BMA",
+        "buy": 113.74,
+        "sell": 241.16,
+        "timestamp": 1734491272363,
+        "source": "B"
+    },
+    {
+        "name": "PAMP",
+        "buy": 154.86,
+        "sell": 187.56,
+        "timestamp": 1734126224363,
+        "source": "A"
+    },
+    {
+        "name": "BMA",
+        "buy": 77.13,
+        "sell": 167.86,
+        "timestamp": 1733213190363,
+        "source": "B"
+    },
+    {
+        "name": "YPF",
+        "buy": 160.77,
+        "sell": 202.43,
+        "timestamp": 1733290975363,
+        "source": "B"
+    },
+    {
+        "name": "GGAL",
+        "buy": 116.73,
+        "sell": 182.21,
+        "timestamp": 1734254696363,
+        "source": "B"
+    },
+    {
+        "name": "BMA",
+        "buy": 106.5,
+        "sell": 212.7,
+        "timestamp": 1734370493363,
+        "source": "A"
+    },
+    {
+        "name": "BMA",
+        "buy": 100.35,
+        "sell": 133.74,
+        "timestamp": 1732638859363,
+        "source": "B"
+    },
+    {
+        "name": "YPF",
+        "buy": 119.07,
+        "sell": 148.87,
+        "timestamp": 1732783881362,
+        "source": "A"
+    },
+    {
+        "name": "BMA",
+        "buy": 99.34,
+        "sell": 246.86,
+        "timestamp": 1733877999362,
+        "source": "A"
+    },
+    {
+        "name": "TS",
+        "buy": 76.27,
+        "sell": 107.6,
+        "timestamp": 1734154212363,
+        "source": "A"
+    },
+    {
+        "name": "PAMP",
+        "buy": 109.25,
+        "sell": 221.32,
+        "timestamp": 1734712138363,
+        "source": "A"
+    },
+    {
+        "name": "GGAL",
+        "buy": 72.55,
+        "sell": 210.78,
+        "timestamp": 1734912832363,
+        "source": "A"
+    },
+    {
+        "name": "YPF",
+        "buy": 116.27,
+        "sell": 239.28,
+        "timestamp": 1733104696363,
+        "source": "B"
+    },
+    {
+        "name": "TS",
+        "buy": 162.31,
+        "sell": 227.23,
+        "timestamp": 1734479116363,
+        "source": "A"
+    },
+    {
+        "name": "YPF",
+        "buy": 104.2,
+        "sell": 249.16,
+        "timestamp": 1734675546362,
+        "source": "A"
+    },
+    {
+        "name": "YPF",
+        "buy": 108.51,
+        "sell": 122.08,
+        "timestamp": 1734186962363,
+        "source": "A"
+    },
+    {
+        "name": "BMA",
+        "buy": 147.72,
+        "sell": 201.48,
+        "timestamp": 1733181483363,
+        "source": "B"
+    },
+    {
+        "name": "BMA",
+        "buy": 129.95,
+        "sell": 162.04,
+        "timestamp": 1733716000363,
+        "source": "A"
+    },
+    {
+        "name": "TS",
+        "buy": 220.34,
+        "sell": 224.37,
+        "timestamp": 1733306205363,
+        "source": "A"
+    },
+    {
+        "name": "TS",
+        "buy": 80.27,
+        "sell": 175.93,
+        "timestamp": 1734180348363,
+        "source": "A"
+    },
+    {
+        "name": "GGAL",
+        "buy": 185.69,
+        "sell": 223.08,
+        "timestamp": 1733579095363,
+        "source": "B"
+    },
+    {
+        "name": "BMA",
+        "buy": 76.48,
+        "sell": 230.99,
+        "timestamp": 1732534571363,
+        "source": "A"
+    },
+    {
+        "name": "BMA",
+        "buy": 89.65,
+        "sell": 159.91,
+        "timestamp": 1734178674363,
+        "source": "A"
+    },
+    {
+        "name": "TS",
+        "buy": 169.19,
+        "sell": 203.35,
+        "timestamp": 1734746821363,
+        "source": "B"
+    },
+    {
+        "name": "YPF",
+        "buy": 92.35,
+        "sell": 156.49,
+        "timestamp": 1733477094363,
+        "source": "B"
+    },
+    {
+        "name": "YPF",
+        "buy": 119.02,
+        "sell": 121.93,
+        "timestamp": 1734001825362,
+        "source": "A"
+    },
+    {
+        "name": "TS",
+        "buy": 172.31,
+        "sell": 246.05,
+        "timestamp": 1734321028363,
+        "source": "A"
+    }
+]

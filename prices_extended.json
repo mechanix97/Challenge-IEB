@@ -1,0 +1,14 @@
+[
+  {"name": "BMA", "buy": 105.22, "sell": 105.59, "timestamp": 1734367423775, "source": "A"},
+  {"name": "BMA", "buy": 105.22, "sell": 105.59, "timestamp": 1734367423776, "source": "B"},
+  {"name": "BMA", "buy": 105.22, "sell": 105.59, "timestamp": 1734367523775, "source": "A"},
+  {"name": "BMA", "buy": 105.22, "sell": 105.59, "timestamp": 1734367723776, "source": "B"},
+  {"name": "YPF", "buy": 78.45, "sell": 78.90, "timestamp": 1734367424780, "source": "A"},
+  {"name": "YPF", "buy": 78.50, "sell": 79.00, "timestamp": 1734367424785, "source": "B"},
+  {"name": "GGAL", "buy": 210.30, "sell": 210.95, "timestamp": 1734367425790, "source": "A"},
+  {"name": "GGAL", "buy": 210.25, "sell": 210.85, "timestamp": 1734367425795, "source": "B"},
+  {"name": "PAMP", "buy": 110.10, "sell": 110.55, "timestamp": 1734367426800, "source": "A"},
+  {"name": "PAMP", "buy": 110.15, "sell": 110.60, "timestamp": 1734367426805, "source": "B"},
+  {"name": "TS", "buy": 175.00, "sell": 175.45, "timestamp": 1734367427810, "source": "A"},
+  {"name": "TS", "buy": 175.05, "sell": 175.50, "timestamp": 1734367427815, "source": "B"}
+]
